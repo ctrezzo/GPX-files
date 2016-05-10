@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="Hillmap http://www.hillmap.com/" xmlns="http://www.topografix.com/GPX/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+
+<trk>
+<name>hillmaptrack</name>
+<trkseg>
+<trkpt lat="41.353715089" lon="-122.232019901"></trkpt>
+<trkpt lat="41.3569847472" lon="-122.232706547"></trkpt>
+<trkpt lat="41.3563727054" lon="-122.233972549"></trkpt>
+<trkpt lat="41.3580316474" lon="-122.235946655"></trkpt>
+<trkpt lat="41.3608662464" lon="-122.235817909"></trkpt>
+<trkpt lat="41.3674046802" lon="-122.231140137"></trkpt>
+<trkpt lat="41.372171203" lon="-122.228736877"></trkpt>
+<trkpt lat="41.374650945" lon="-122.231483459"></trkpt>
+<trkpt lat="41.376583146" lon="-122.232298851"></trkpt>
+<trkpt lat="41.3780966633" lon="-122.235989571"></trkpt>
+<trkpt lat="41.3798355547" lon="-122.236418724"></trkpt>
+<trkpt lat="41.3809947897" lon="-122.237062454"></trkpt>
+<trkpt lat="41.3820574037" lon="-122.23783493"></trkpt>
+<trkpt lat="41.3833453974" lon="-122.237019539"></trkpt>
+<trkpt lat="41.3845045699" lon="-122.239079475"></trkpt>
+<trkpt lat="41.3861788937" lon="-122.239336967"></trkpt>
+<trkpt lat="41.3874990032" lon="-122.236461639"></trkpt>
+<trkpt lat="41.3887224954" lon="-122.232599258"></trkpt>
+<trkpt lat="41.391684539" lon="-122.21903801"></trkpt>
+<trkpt lat="41.3958054188" lon="-122.217750549"></trkpt>
+<trkpt lat="41.4004410962" lon="-122.208309174"></trkpt>
+<trkpt lat="41.4026944311" lon="-122.204618454"></trkpt>
+<trkpt lat="41.4018574872" lon="-122.198095322"></trkpt>
+<trkpt lat="41.4062996044" lon="-122.195177078"></trkpt>
+<trkpt lat="41.4089389794" lon="-122.195477486"></trkpt>
+<trkpt lat="41.4089711662" lon="-122.194705009"></trkpt>
+
+</trkseg>
+</trk>
+</gpx>
