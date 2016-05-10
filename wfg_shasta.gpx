@@ -1,0 +1,86 @@
+<?xml version="1.0"?>
+<gpx version="1.0" creator="Hillmap http://www.hillmap.com/" xmlns="http://www.topografix.com/GPX/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+
+<rte>
+<name>WestFaceGully</name>
+<rtept lat="41.353715089" lon="-122.232019901">
+<name>0</name>
+</rtept>
+<rtept lat="41.3569847472" lon="-122.232706547">
+<name>1</name>
+</rtept>
+<rtept lat="41.3563727054" lon="-122.233972549">
+<name>2</name>
+</rtept>
+<rtept lat="41.3580316474" lon="-122.235946655">
+<name>3</name>
+</rtept>
+<rtept lat="41.3608662464" lon="-122.235817909">
+<name>4</name>
+</rtept>
+<rtept lat="41.3674046802" lon="-122.231140137">
+<name>5</name>
+</rtept>
+<rtept lat="41.372171203" lon="-122.228736877">
+<name>6</name>
+</rtept>
+<rtept lat="41.374650945" lon="-122.231483459">
+<name>7</name>
+</rtept>
+<rtept lat="41.376583146" lon="-122.232298851">
+<name>8</name>
+</rtept>
+<rtept lat="41.3780966633" lon="-122.235989571">
+<name>9</name>
+</rtept>
+<rtept lat="41.3798355547" lon="-122.236418724">
+<name>10</name>
+</rtept>
+<rtept lat="41.3809947897" lon="-122.237062454">
+<name>11</name>
+</rtept>
+<rtept lat="41.3820574037" lon="-122.23783493">
+<name>12</name>
+</rtept>
+<rtept lat="41.3833453974" lon="-122.237019539">
+<name>13</name>
+</rtept>
+<rtept lat="41.3845045699" lon="-122.239079475">
+<name>14</name>
+</rtept>
+<rtept lat="41.3861788937" lon="-122.239336967">
+<name>15</name>
+</rtept>
+<rtept lat="41.3874990032" lon="-122.236461639">
+<name>16</name>
+</rtept>
+<rtept lat="41.3887224954" lon="-122.232599258">
+<name>17</name>
+</rtept>
+<rtept lat="41.391684539" lon="-122.21903801">
+<name>18</name>
+</rtept>
+<rtept lat="41.3958054188" lon="-122.217750549">
+<name>19</name>
+</rtept>
+<rtept lat="41.4004410962" lon="-122.208309174">
+<name>20</name>
+</rtept>
+<rtept lat="41.4026944311" lon="-122.204618454">
+<name>21</name>
+</rtept>
+<rtept lat="41.4018574872" lon="-122.198095322">
+<name>22</name>
+</rtept>
+<rtept lat="41.4062996044" lon="-122.195177078">
+<name>23</name>
+</rtept>
+<rtept lat="41.4089389794" lon="-122.195477486">
+<name>24</name>
+</rtept>
+<rtept lat="41.4089711662" lon="-122.194705009">
+<name>25</name>
+</rtept>
+
+</rte>
+</gpx>
